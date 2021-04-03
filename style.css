@@ -1,0 +1,38 @@
+*{
+    background-color: #708090;
+}
+img{
+    height:600px;
+    width: 250px;
+}
+h1{
+    font-size:52px;
+    color:rgb(255,255,255);
+}
+.green{
+    color: rgb(0,255,0);
+    font-size: 25px;
+}
+.my{
+    color: rgb(255,255,255);
+    font-size: 25px;
+}
+.white{
+    color: rgb(255,255,255);
+    font-size: 20px;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom{
+    position: absolute;
+    text-align: center;
+    bottom: 8px;
+    left: 50px;
+}
+
+.icon{
+    color: green;
+}
